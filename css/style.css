@@ -1,0 +1,78 @@
+html{
+/*	background-color: pink;*/
+}
+#homei{
+	margin: 0;
+	padding: 0;
+	background-image: url('../image/main.jpg') ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+nav{
+	background-color: #e4ddf4;
+}
+nav li{
+	color: black;
+	background-color: grey;
+}
+
+/*work*/
+#cards{
+	/*padding: 5rem;*/
+	margin: 5rem;
+	/*background-color: blue;*/
+	display: flex;
+	flex-wrap: wrap;
+
+}
+#card{
+	display: flex;
+	padding: 1rem;
+
+}
+
+/* contact */
+form{
+	padding: 10rem;
+	background-color: #ea9c1b;
+	color: red;
+}
+.input-field label{
+	color: red;
+	font-weight: 600;
+}
+
+/*home*/
+#homes {
+	font-size: 30px;
+	
+}
+
+
+/*about*/
+/*#aboutimg{
+	display: flex;
+	flex-wrap: wrap;
+
+}*/
+.about1{
+	display: flex;
+	flex-wrap: wrap;
+	width: 30px;
+
+}
+
+#aboutm{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/*footer*/
+footer .page-footer{
+	margin: 0;
+	padding: 0;
+	background-color: #71c9ce;
+}
+
+
